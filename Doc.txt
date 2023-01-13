@@ -2,8 +2,6 @@ version control:
 
 Git hub:open source version control tool.
 
-git clone https/ssh :create local repo with the help
-of https or ssh url of remote repo.
 
 Generating ssh key
 1)open git bash anywhere in system.
@@ -17,6 +15,10 @@ Generating ssh key
    ssh-add ~/.ssh/id_ed25519
 5)copy ssh key 
     cat < ~/.ssh/id_ed25519.pub
+
+git clone https/ssh :create local repo with the help
+of https or ssh url of remote repo.
+
 
 git clone:
    To clone remote repo to system(creating local repo)
@@ -43,7 +45,7 @@ git add file_name or git add -A
        This command is used add file to the path.
 git commit -m"message"
     This command is used to save the file in the path.
-git push
+giit.. push..
    This command is used to push the files into remote
 repo which are present in the path.
 
