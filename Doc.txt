@@ -47,6 +47,13 @@ git push
    This command is used to push the files into remote
 repo which are present in the path.
 
+git branch <branchname>
+      ->creates new branch 
+git checkout branchname
+      ->switch the branch  
+
+
+
 
 
 
